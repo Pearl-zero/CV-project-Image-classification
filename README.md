@@ -154,3 +154,8 @@ project/
 - 그외 기간 작성
   
 <br>
+
+## 결과
+- 1등
+![CV 평가](https://github.com/user-attachments/assets/3aed0bb8-8122-44d1-9d7f-eed119f87d10)
+![2024-11-12 11 08 21](https://github.com/user-attachments/assets/3d11cfff-3edd-44dc-b784-ffa8579b8d91)
